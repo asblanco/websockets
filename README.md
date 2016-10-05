@@ -1,3 +1,2 @@
 # websockets
-lkjkj
-kljklj
+Websockets demo for University assignment
